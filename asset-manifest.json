@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://clinicm.github.io/csb-730t0z/static/css/main.909fc2b9.chunk.css",
+    "main.js": "https://clinicm.github.io/csb-730t0z/static/js/main.219f6f1b.chunk.js",
+    "main.js.map": "https://clinicm.github.io/csb-730t0z/static/js/main.219f6f1b.chunk.js.map",
+    "runtime-main.js": "https://clinicm.github.io/csb-730t0z/static/js/runtime-main.34fb2b81.js",
+    "runtime-main.js.map": "https://clinicm.github.io/csb-730t0z/static/js/runtime-main.34fb2b81.js.map",
+    "static/css/2.5a2813f3.chunk.css": "https://clinicm.github.io/csb-730t0z/static/css/2.5a2813f3.chunk.css",
+    "static/js/2.6424fd49.chunk.js": "https://clinicm.github.io/csb-730t0z/static/js/2.6424fd49.chunk.js",
+    "static/js/2.6424fd49.chunk.js.map": "https://clinicm.github.io/csb-730t0z/static/js/2.6424fd49.chunk.js.map",
+    "index.html": "https://clinicm.github.io/csb-730t0z/index.html",
+    "precache-manifest.64553c2583de555c84403ec853ce7072.js": "https://clinicm.github.io/csb-730t0z/precache-manifest.64553c2583de555c84403ec853ce7072.js",
+    "service-worker.js": "https://clinicm.github.io/csb-730t0z/service-worker.js",
+    "static/css/2.5a2813f3.chunk.css.map": "https://clinicm.github.io/csb-730t0z/static/css/2.5a2813f3.chunk.css.map",
+    "static/css/main.909fc2b9.chunk.css.map": "https://clinicm.github.io/csb-730t0z/static/css/main.909fc2b9.chunk.css.map",
+    "static/js/2.6424fd49.chunk.js.LICENSE.txt": "https://clinicm.github.io/csb-730t0z/static/js/2.6424fd49.chunk.js.LICENSE.txt",
+    "static/js/main.219f6f1b.chunk.js.LICENSE.txt": "https://clinicm.github.io/csb-730t0z/static/js/main.219f6f1b.chunk.js.LICENSE.txt",
+    "static/media/banner_1.jpg": "https://clinicm.github.io/csb-730t0z/static/media/banner_1.fd4db0ff.jpg",
+    "static/media/banner_2.jpg": "https://clinicm.github.io/csb-730t0z/static/media/banner_2.f77e8fe9.jpg",
+    "static/media/banner_3.jpg": "https://clinicm.github.io/csb-730t0z/static/media/banner_3.67bb10f2.jpg",
+    "static/media/deal_ofthe_week.png": "https://clinicm.github.io/csb-730t0z/static/media/deal_ofthe_week.18a6bbdf.png",
+    "static/media/emptyCart.png": "https://clinicm.github.io/csb-730t0z/static/media/emptyCart.02800820.png",
+    "static/media/empty_cart.png": "https://clinicm.github.io/csb-730t0z/static/media/empty_cart.abebef23.png",
+    "static/media/slider_1.jpg": "https://clinicm.github.io/csb-730t0z/static/media/slider_1.dc7970a3.jpg",
+    "static/media/slider_2.jpg": "https://clinicm.github.io/csb-730t0z/static/media/slider_2.a5bc9e89.jpg",
+    "static/media/slider_3.jpg": "https://clinicm.github.io/csb-730t0z/static/media/slider_3.035f02ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34fb2b81.js",
+    "static/css/2.5a2813f3.chunk.css",
+    "static/js/2.6424fd49.chunk.js",
+    "static/css/main.909fc2b9.chunk.css",
+    "static/js/main.219f6f1b.chunk.js"
+  ]
+}
